@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "userId": 2,
+      "id": 18,
+      "title": "voluptate et itaque vero tempora molestiae",
+      "body": "eveniet quo quis\nlaborum totam consequatur non dolor\nut et est repudiandae\nest voluptatem vel debitis et magnam"
+    },
+    {
+      "userId": 2,
+      "id": 19,
+      "title": "adipisci placeat illum aut reiciendis qui",
+      "body": "illum quis cupiditate provident sit magnam\nea sed aut omnis\nveniam maiores ullam consequatur atque\nadipisci quo iste expedita sit quos voluptas"
+    },
+    {
+      "userId": 2,
+      "id": 20,
+      "title": "doloribus ad provident suscipit at",
+      "body": "qui consequuntur ducimus possimus quisquam amet similique\nsuscipit porro ipsam amet\neos veritatis officiis exercitationem vel fugit aut necessitatibus totam\nomnis rerum consequatur expedita quidem cumque explicabo"
+    },
+    {
+      "id": "f578736f-9959-46ab-85a3-8c252807fcb6",
+      "title": "sdfsdfsdf",
+      "body": "sdfsdfsdfsdfsdf"
+    },
+    {
+      "id": "e00a6a8e-01fd-42c5-be38-ab198c8d3440",
+      "title": "dfgdfdfgdfg",
+      "body": "dfgdfgdfgdfgdfgdfgd"
+    }
+  ]
+}
